@@ -1,4 +1,4 @@
 astro
 =====
 
-Astronomical scripts
+Astronomical scripts / science related project.
