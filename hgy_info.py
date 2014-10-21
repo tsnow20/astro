@@ -3,7 +3,7 @@ __author__ = 'Timothy Snowberger'
 
 import csv
 
-with open(r'hygxyz.csv') as file:
-    reader = csv.reader(file)
+with open(r'hygxyz.csv') as file_:
+    reader = csv.reader(file_)
     for row in reader:
         print(row)
