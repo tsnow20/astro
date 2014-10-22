@@ -1,5 +1,5 @@
 #!/usr/bin/python
-__author__ = 'Timothy Snowberger'
+__author__ = 'Timothy Snowberger '
 
 import csv
 
