@@ -1,5 +1,6 @@
 #!/usr/bin/python
-__author__ = 'Timothy Snowberger'
+__author__ = 'Timothy Snowberger, Kendall Brown'
+#Added my name to the author string
 
 import csv
 
